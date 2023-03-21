@@ -39,7 +39,7 @@ $
 ```
 #### Forked by
 * Martin Opolot
-*Derrick Kata:
+* Derrick Kata:
 <center><h3>Repository Contents by Project Task</h3> </center>
 
 | Tasks | Files | Description |
